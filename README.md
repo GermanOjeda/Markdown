@@ -85,3 +85,11 @@ console.log("hola mundo")
 
 Periódico [El País](https://www.elpais.es "periódico chachi")
 
+<!--Insertar imágenes -->
+
+![visual studio logo](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg "visual code")
+
+* [x] tarea1
+* [ ] tarea2
+* [ ] tarea3
+* [x] tarea4 
