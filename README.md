@@ -89,7 +89,16 @@ Periódico [El País](https://www.elpais.es "periódico chachi")
 
 ![visual studio logo](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg "visual code")
 
-* [x] tarea1
+* [X] tarea1
 * [ ] tarea2
 * [ ] tarea3
-* [x] tarea4 
+* [X] tarea4 
+
+> Esto es una cita
+
+![short bald kiryu](https://i.pinimg.com/originals/06/a2/a3/06a2a36314e45a46e11e6c6b133846ac.jpg "short bald kiryu")
+
+
+<!-- Insertar video de youtube-->
+
+>[![vé al siguiente video](https://img.youtube.com/vi/_hI14xuvQag/hqdefault.jpg)](https//www.youtube.com/watch?v= hI14xuvQag)
